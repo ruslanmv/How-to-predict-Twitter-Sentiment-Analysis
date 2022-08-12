@@ -10,7 +10,11 @@ Hello, today we are going to perform  a **Twitter Sentiment Analysis** by  a  cu
 
 First you need to install anaconda at this [link](https://www.anaconda.com/products/individual)
 
-![img](../assets/images/posts/README/1-16601652164621.jpg)
+
+
+![png](assets/images/posts/README/1-16601652164621.jpg)
+
+
 
 in this location **C:\Anaconda3** , then you, check that your terminal , recognize **conda**
 
